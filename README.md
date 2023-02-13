@@ -25,3 +25,10 @@ The dataset is rich has both numerical and categorical, we tried both Ordinal an
 - Random Forest XGBoosting
 - Neural Network
 
+## Performance Analysis
+
+![image](https://user-images.githubusercontent.com/57527313/218596665-371b3ab7-5128-41dc-b00a-2afd008a1728.png)
+
+## References
+
+- https://www.kaggle.com/datasets/ramjasmaurya/medias-cost-prediction-in-foodmart
