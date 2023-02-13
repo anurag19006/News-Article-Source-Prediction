@@ -2,7 +2,7 @@
 
 Predict cost on media campaigns in food mart of usa on the basis of 60k customers income, product, promotion and store features.
 
-##Dataset
+## Dataset
 
 - The Data set is selected from Kaggle.com
 - It has 40 columns and 60058 rows.
