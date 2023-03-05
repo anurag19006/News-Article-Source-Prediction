@@ -5,8 +5,11 @@ Media stack has news articles from multiples sources/channels. Our goal is to tr
 
 ## Data
 
-We have around 26k data points belonging to 8 sources
+We have around 26k data points belonging to 8 sources, fetched from Media Stack site using API. 
+- Below we can see number of articles beloning to different news sources and categories.
 ![image](https://user-images.githubusercontent.com/57527313/222935132-3d9b76ea-1fb9-407b-882e-bc78f3cbb6dc.png)
+
+- Below we can the distrubution of articles based on number of words in each of them.
 ![image](https://user-images.githubusercontent.com/57527313/222935137-70054944-9771-412a-abdd-f4e5d88d0b56.png)
 
 
